@@ -1,0 +1,15 @@
+/Users/elsangusejnov/Desktop/seminari zadaniya/zadanie_6/bin/Debug/net7.0/seminari zadaniya
+/Users/elsangusejnov/Desktop/seminari zadaniya/zadanie_6/bin/Debug/net7.0/seminari zadaniya.deps.json
+/Users/elsangusejnov/Desktop/seminari zadaniya/zadanie_6/bin/Debug/net7.0/seminari zadaniya.runtimeconfig.json
+/Users/elsangusejnov/Desktop/seminari zadaniya/zadanie_6/bin/Debug/net7.0/seminari zadaniya.dll
+/Users/elsangusejnov/Desktop/seminari zadaniya/zadanie_6/bin/Debug/net7.0/seminari zadaniya.pdb
+/Users/elsangusejnov/Desktop/seminari zadaniya/zadanie_6/obj/Debug/net7.0/seminari zadaniya.csproj.AssemblyReference.cache
+/Users/elsangusejnov/Desktop/seminari zadaniya/zadanie_6/obj/Debug/net7.0/seminari zadaniya.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elsangusejnov/Desktop/seminari zadaniya/zadanie_6/obj/Debug/net7.0/seminari zadaniya.AssemblyInfoInputs.cache
+/Users/elsangusejnov/Desktop/seminari zadaniya/zadanie_6/obj/Debug/net7.0/seminari zadaniya.AssemblyInfo.cs
+/Users/elsangusejnov/Desktop/seminari zadaniya/zadanie_6/obj/Debug/net7.0/seminari zadaniya.csproj.CoreCompileInputs.cache
+/Users/elsangusejnov/Desktop/seminari zadaniya/zadanie_6/obj/Debug/net7.0/seminari zadaniya.dll
+/Users/elsangusejnov/Desktop/seminari zadaniya/zadanie_6/obj/Debug/net7.0/refint/seminari zadaniya.dll
+/Users/elsangusejnov/Desktop/seminari zadaniya/zadanie_6/obj/Debug/net7.0/seminari zadaniya.pdb
+/Users/elsangusejnov/Desktop/seminari zadaniya/zadanie_6/obj/Debug/net7.0/seminari zadaniya.genruntimeconfig.cache
+/Users/elsangusejnov/Desktop/seminari zadaniya/zadanie_6/obj/Debug/net7.0/ref/seminari zadaniya.dll
